@@ -3,7 +3,17 @@ entries:
   helm-base-ns:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-23T21:26:37.11871699-05:00"
+    created: "2024-09-23T21:38:19.263295857-05:00"
+    description: A Helm chart for Kubernetes
+    digest: df64c720f94bbf1a2bf4d0a96e9a9dcb19d5ece843a4ae906b46812c6473a14a
+    name: helm-base-ns
+    type: application
+    urls:
+    - https://fernavila.github.io/mycharts/helm/charts/helm-base-ns-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-23T21:38:19.263026133-05:00"
     description: A Helm chart for Kubernetes
     digest: c0193e4cebb8953c4dbff77d7dcb1bedb305c24d337eb3cd1992914be2876e55
     name: helm-base-ns
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-23T21:26:37.118450872-05:00"
+    created: "2024-09-23T21:38:19.262737967-05:00"
     description: A Helm chart for Kubernetes
     digest: c7d6585ef0232f59f10c1401fd39dc031ce666ea3615c1fa3ba23b5f1bd303db
     name: helm-base-ns
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://fernavila.github.io/mycharts/helm/charts/helm-base-ns-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-23T21:26:37.117917145-05:00"
+generated: "2024-09-23T21:38:19.262297525-05:00"
